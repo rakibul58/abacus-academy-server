@@ -1,4 +1,6 @@
-# Abacus Academy Server
+# Abacus Academy
+
+[Live Site](https://abacus-academy-server-swart.vercel.app/)
 
 A Node.js/Express backend server for the Abacus Academy e-learning platform.
 
